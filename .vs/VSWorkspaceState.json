@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\algorithms"
+    "\\algorithms",
+    "\\algorithms\\C#"
   ],
-  "SelectedNode": "\\algorithms\\C#",
+  "SelectedNode": "\\algorithms\\C#\\Palindrome Number.cs",
   "PreviewInSolutionExplorer": false
 }

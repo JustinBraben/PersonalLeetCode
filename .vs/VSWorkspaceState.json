@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\algorithms",
-    "\\algorithms\\C#"
+    "\\algorithms\\C#",
+    "\\database",
+    "\\database\\MySQL"
   ],
-  "SelectedNode": "\\algorithms\\C#\\LongestCommonPrefix.cs",
+  "SelectedNode": "\\algorithms\\C#\\BinarySearch.cs",
   "PreviewInSolutionExplorer": false
 }

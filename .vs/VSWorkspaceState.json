@@ -6,6 +6,6 @@
     "\\database",
     "\\database\\MySQL"
   ],
-  "SelectedNode": "\\database\\MySQL\\DeleteDuplicateEmails.sql",
+  "SelectedNode": "\\database\\MySQL\\FixNamesInATable.sql",
   "PreviewInSolutionExplorer": false
 }

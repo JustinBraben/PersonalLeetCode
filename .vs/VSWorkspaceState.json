@@ -6,6 +6,6 @@
     "\\database",
     "\\database\\MySQL"
   ],
-  "SelectedNode": "\\database\\MySQL\\CustomerPlacingTheLargestNumberOfOrders.sql",
+  "SelectedNode": "\\database\\MySQL\\FindTotalTimeSpentByEachEmployee.sql",
   "PreviewInSolutionExplorer": false
 }

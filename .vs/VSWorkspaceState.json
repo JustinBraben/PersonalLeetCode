@@ -3,9 +3,10 @@
     "",
     "\\algorithms",
     "\\algorithms\\C#",
-    "\\database",
-    "\\database\\MySQL"
+    "\\database\\MySQL",
+    "\\datastructures",
+    "\\datastructures\\c++"
   ],
-  "SelectedNode": "\\algorithms\\C#\\LongestSubstringWithoutRepeatingCharacters.cs",
+  "SelectedNode": "\\datastructures\\c++\\ContainsDuplicate.h",
   "PreviewInSolutionExplorer": false
 }

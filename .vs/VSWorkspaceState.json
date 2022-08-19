@@ -3,10 +3,9 @@
     "",
     "\\algorithms",
     "\\algorithms\\C#",
-    "\\database\\MySQL",
     "\\datastructures",
     "\\datastructures\\c++"
   ],
-  "SelectedNode": "\\datastructures\\c++\\ContainsDuplicate.h",
+  "SelectedNode": "\\datastructures\\c++\\MergeSortedArray.h",
   "PreviewInSolutionExplorer": false
 }

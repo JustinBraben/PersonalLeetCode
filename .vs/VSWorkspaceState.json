@@ -2,10 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\algorithms",
-    "\\algorithms\\C#",
     "\\datastructures",
     "\\datastructures\\c++"
   ],
-  "SelectedNode": "\\datastructures\\c++\\MergeSortedArray.h",
+  "SelectedNode": "\\datastructures\\c++\\BestTimeToBuyAndSellStock.h",
   "PreviewInSolutionExplorer": false
 }

@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\algorithms",
-    "\\datastructures",
-    "\\datastructures\\c++"
+    "\\datastructures"
   ],
-  "SelectedNode": "\\datastructures\\c++\\BestTimeToBuyAndSellStock.h",
+  "SelectedNode": "\\datastructures\\c++",
   "PreviewInSolutionExplorer": false
 }

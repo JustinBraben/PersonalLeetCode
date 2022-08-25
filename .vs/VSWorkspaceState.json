@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\algorithms",
-    "\\datastructures"
+    "\\datastructures",
+    "\\datastructures\\c++"
   ],
-  "SelectedNode": "\\datastructures\\c++",
+  "SelectedNode": "\\datastructures\\c++\\RemoveDuplicatesFromSortedList.h",
   "PreviewInSolutionExplorer": false
 }

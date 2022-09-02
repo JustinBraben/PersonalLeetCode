@@ -2,11 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\algorithms",
-    "\\algorithms\\c++",
+    "\\algorithms\\C++",
     "\\database",
-    "\\datastructures",
-    "\\datastructures\\c++"
+    "\\datastructures"
   ],
-  "SelectedNode": "\\algorithms\\c++\\PacificAtlanticWaterFlow.h",
+  "SelectedNode": "\\algorithms\\C++\\CountGoodNodesInBinaryTree.h",
   "PreviewInSolutionExplorer": false
 }

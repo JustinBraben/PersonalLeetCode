@@ -4,8 +4,9 @@
     "\\algorithms",
     "\\algorithms\\C++",
     "\\database",
-    "\\datastructures"
+    "\\datastructures",
+    "\\datastructures\\C++"
   ],
-  "SelectedNode": "\\algorithms\\C++\\RemoveDuplicatesFromSortedArray.h",
+  "SelectedNode": "\\datastructures\\C++\\BinaryTreePostorderTraversal.h",
   "PreviewInSolutionExplorer": false
 }

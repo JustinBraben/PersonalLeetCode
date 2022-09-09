@@ -1,10 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\algorithms",
-    "\\algorithms\\C++",
-    "\\datastructures\\C++"
+    "\\algorithms"
   ],
-  "SelectedNode": "\\algorithms\\C++\\ZigzagConversion.h",
+  "SelectedNode": "\\datastructures",
   "PreviewInSolutionExplorer": false
 }

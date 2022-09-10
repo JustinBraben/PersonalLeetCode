@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\algorithms"
+    "\\algorithms",
+    "\\algorithms\\C++"
   ],
-  "SelectedNode": "\\datastructures",
+  "SelectedNode": "\\algorithms\\C++\\RemoveElement.h",
   "PreviewInSolutionExplorer": false
 }

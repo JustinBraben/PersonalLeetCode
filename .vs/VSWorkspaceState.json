@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\algorithms",
-    "\\algorithms\\C++"
+    "\\algorithms\\C++",
+    "\\datastructures",
+    "\\datastructures\\C++"
   ],
-  "SelectedNode": "\\algorithms\\C++\\IntegerReplacement.h",
+  "SelectedNode": "\\datastructures\\C++\\BinaryTreePreorderTraversal.h",
   "PreviewInSolutionExplorer": false
 }

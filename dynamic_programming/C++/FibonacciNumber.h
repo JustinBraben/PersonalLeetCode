@@ -34,3 +34,21 @@ public:
 
     }
 };
+
+// Tabulated fast DP
+class TabulatedSolution {
+public:
+    int fib(int n) {
+
+        vector<int> fibMemo(n + 1, -1);
+
+        fibMemo[0] = 0;
+
+        if (n >= 1) fibMemo[1] = 1;
+
+        for (int i = 2; i <= n; i++)
+            fibMemo[i] = fibMemo[i - 1] + fibMemo[i - 2];
+
+        return fibMemo[n];
+    }
+};

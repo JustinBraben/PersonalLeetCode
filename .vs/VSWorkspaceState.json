@@ -3,9 +3,9 @@
     "",
     "\\algorithms",
     "\\algorithms\\C++",
-    "\\datastructures",
-    "\\datastructures\\C++"
+    "\\dynamic_programming",
+    "\\dynamic_programming\\C++"
   ],
-  "SelectedNode": "\\datastructures\\C++\\BinaryTreePreorderTraversal.h",
+  "SelectedNode": "\\dynamic_programming\\C++\\N-thTribonacciNumber.h",
   "PreviewInSolutionExplorer": false
 }

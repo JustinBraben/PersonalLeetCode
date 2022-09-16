@@ -1,11 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\algorithms",
-    "\\algorithms\\C++",
     "\\dynamic_programming",
     "\\dynamic_programming\\C++"
   ],
-  "SelectedNode": "\\dynamic_programming\\C++\\MinCostClimbingStairs.h",
+  "SelectedNode": "\\dynamic_programming\\C++\\HouseRobber.h",
   "PreviewInSolutionExplorer": false
 }

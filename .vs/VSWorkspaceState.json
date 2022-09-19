@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\algorithms",
     "\\dynamic_programming",
     "\\dynamic_programming\\C++"
   ],
-  "SelectedNode": "\\dynamic_programming\\C++\\HouseRobber.h",
+  "SelectedNode": "\\dynamic_programming\\C++\\DeleteAndEarn.h",
   "PreviewInSolutionExplorer": false
 }

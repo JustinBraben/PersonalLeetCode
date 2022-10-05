@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\algorithms",
-    "\\dynamic_programming",
-    "\\dynamic_programming\\C++"
+    "\\algorithms\\C++"
   ],
-  "SelectedNode": "\\dynamic_programming\\C++\\UglyNumberII.h",
+  "SelectedNode": "\\algorithms\\C++\\LetterCombinationsOfAPhoneNumber.h",
   "PreviewInSolutionExplorer": false
 }

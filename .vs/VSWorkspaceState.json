@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\algorithms",
-    "\\algorithms\\C++"
+    "\\datastructures",
+    "\\datastructures\\C++"
   ],
-  "SelectedNode": "\\algorithms\\C++\\RotateImage.h",
+  "SelectedNode": "\\datastructures\\C++\\ClosestDessertCost.h",
   "PreviewInSolutionExplorer": false
 }

@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\datastructures",
+    "\\algorithms",
+    "\\algorithms\\C++",
     "\\datastructures\\C++"
   ],
-  "SelectedNode": "\\datastructures\\C++\\ClosestDessertCost.h",
+  "SelectedNode": "\\algorithms\\C++\\PalindromePartitioning.h",
   "PreviewInSolutionExplorer": false
 }

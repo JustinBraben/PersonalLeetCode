@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\algorithms",
-    "\\algorithms\\C++",
-    "\\datastructures\\C++"
+    "\\algorithms\\C++"
   ],
-  "SelectedNode": "\\algorithms\\C++\\PalindromePartitioning.h",
+  "SelectedNode": "\\algorithms\\C++\\CountNumberOfPairsWithAbsoluteDifferenceK.h",
   "PreviewInSolutionExplorer": false
 }

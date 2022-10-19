@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\algorithms",
-    "\\algorithms\\C++"
+    "\\algorithms\\C++",
+    "\\dynamic_programming",
+    "\\dynamic_programming\\C++"
   ],
-  "SelectedNode": "\\algorithms\\C++\\SumOfBeautyInTheArray.h",
+  "SelectedNode": "\\dynamic_programming\\C++\\SplitArrayLargestSum.h",
   "PreviewInSolutionExplorer": false
 }

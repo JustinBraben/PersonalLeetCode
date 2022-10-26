@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\algorithms\\C++",
-    "\\dynamic_programming\\C++"
+    "\\datastructures",
+    "\\datastructures\\C++"
   ],
-  "SelectedNode": "\\algorithms",
+  "SelectedNode": "\\datastructures\\C++\\GroupAnagrams.h",
   "PreviewInSolutionExplorer": false
 }

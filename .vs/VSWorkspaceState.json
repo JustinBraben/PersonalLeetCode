@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\algorithms",
     "\\algorithms\\C++",
-    "\\datastructures",
     "\\datastructures\\C++"
   ],
-  "SelectedNode": "\\datastructures\\C++\\GroupAnagrams.h",
+  "SelectedNode": "\\algorithms\\C++\\NextPermutation.h",
   "PreviewInSolutionExplorer": false
 }

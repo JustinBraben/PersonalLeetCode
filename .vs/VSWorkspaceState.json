@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\algorithms",
-    "\\algorithms\\C++"
+    "\\datastructures",
+    "\\datastructures\\C++"
   ],
-  "SelectedNode": "\\algorithms\\C++\\WhereWillTheBallFall.h",
+  "SelectedNode": "\\datastructures\\C++\\MinimumGeneticMutation.h",
   "PreviewInSolutionExplorer": false
 }

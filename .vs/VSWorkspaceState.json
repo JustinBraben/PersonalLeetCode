@@ -2,9 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\algorithms",
-    "\\algorithms\\C++",
+    "\\datastructures",
     "\\datastructures\\C++"
   ],
-  "SelectedNode": "\\algorithms\\C++\\ReverseVowelsOfAString.h",
+  "SelectedNode": "\\datastructures\\C++\\OnlineStockSpan.h",
   "PreviewInSolutionExplorer": false
 }

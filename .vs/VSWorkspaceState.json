@@ -2,9 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\algorithms",
-    "\\datastructures",
-    "\\datastructures\\C++"
+    "\\dynamic_programming",
+    "\\dynamic_programming\\C++"
   ],
-  "SelectedNode": "\\datastructures\\C++\\RemoveAllAdjacentDuplicateInString.h",
+  "SelectedNode": "\\dynamic_programming\\C++\\MostStonesRemovedWithSameRowOrColumn.h",
   "PreviewInSolutionExplorer": false
 }

@@ -2,9 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\algorithms",
-    "\\dynamic_programming",
+    "\\algorithms\\C++",
     "\\dynamic_programming\\C++"
   ],
-  "SelectedNode": "\\dynamic_programming\\C++\\MostStonesRemovedWithSameRowOrColumn.h",
+  "SelectedNode": "\\algorithms\\C++\\CountCompleteTreeNodes.h",
   "PreviewInSolutionExplorer": false
 }

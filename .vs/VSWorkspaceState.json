@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\algorithms",
-    "\\algorithms\\C++",
-    "\\dynamic_programming\\C++"
+    "\\algorithms\\C++"
   ],
-  "SelectedNode": "\\algorithms\\C++\\CountCompleteTreeNodes.h",
+  "SelectedNode": "\\algorithms\\C++\\GuessNumberHigherOrLower.h",
   "PreviewInSolutionExplorer": false
 }

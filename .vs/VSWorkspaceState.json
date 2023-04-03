@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\algorithms",
-    "\\datastructures",
-    "\\datastructures\\C++"
+    "\\algorithms\\C++"
   ],
-  "SelectedNode": "\\datastructures\\C++\\KeysAndRooms.h",
+  "SelectedNode": "\\algorithms\\C++\\BoatstoSavePeople.h",
   "PreviewInSolutionExplorer": false
 }

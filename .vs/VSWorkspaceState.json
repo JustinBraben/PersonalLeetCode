@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\algorithms",
-    "\\algorithms\\C++"
+    "\\datastructures",
+    "\\datastructures\\C++"
   ],
-  "SelectedNode": "\\algorithms\\C++\\GuessNumberHigherOrLower.h",
+  "SelectedNode": "\\datastructures\\C++\\KeysAndRooms.h",
   "PreviewInSolutionExplorer": false
 }

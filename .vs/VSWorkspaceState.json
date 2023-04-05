@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\algorithms",
-    "\\algorithms\\C++"
+    "\\datastructures",
+    "\\datastructures\\C++"
   ],
-  "SelectedNode": "\\algorithms\\C++\\SuccessfulPairsOfSpellsAndPotions.h",
+  "SelectedNode": "\\datastructures\\C++\\OptimalPartitionOfString.h",
   "PreviewInSolutionExplorer": false
 }

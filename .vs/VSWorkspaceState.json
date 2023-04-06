@@ -2,9 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\algorithms",
-    "\\datastructures",
+    "\\algorithms\\C++",
     "\\datastructures\\C++"
   ],
-  "SelectedNode": "\\datastructures\\C++\\OptimalPartitionOfString.h",
+  "SelectedNode": "\\algorithms\\C++\\MinimizeMaximumOfArray.h",
   "PreviewInSolutionExplorer": false
 }

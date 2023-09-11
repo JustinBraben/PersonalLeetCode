@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\algorithms",
-    "\\algorithms\\C++"
+    "\\datastructures",
+    "\\datastructures\\C++"
   ],
-  "SelectedNode": "\\algorithms\\C++\\MaximumWidthOfBinaryTree.h",
+  "SelectedNode": "\\datastructures\\C++\\SmallestNumberInInfiniteSet.h",
   "PreviewInSolutionExplorer": false
 }

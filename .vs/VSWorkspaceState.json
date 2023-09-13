@@ -1,10 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\algorithms",
-    "\\datastructures",
-    "\\datastructures\\C++"
+    "\\datastructures"
   ],
-  "SelectedNode": "\\datastructures\\C++\\SmallestNumberInInfiniteSet.h",
+  "SelectedNode": "\\algorithms",
   "PreviewInSolutionExplorer": false
 }

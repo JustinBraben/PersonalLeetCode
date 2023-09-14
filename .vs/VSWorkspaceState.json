@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\datastructures"
+    "\\algorithms",
+    "\\algorithms\\C++"
   ],
-  "SelectedNode": "\\algorithms",
+  "SelectedNode": "\\algorithms\\C++\\Candy.h",
   "PreviewInSolutionExplorer": false
 }

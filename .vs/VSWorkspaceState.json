@@ -1,10 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\algorithms",
-    "\\datastructures",
-    "\\datastructures\\C++"
+    "\\algorithms"
   ],
-  "SelectedNode": "\\datastructures\\C++\\ReconstructItinerary.h",
+  "SelectedNode": "\\datastructures",
   "PreviewInSolutionExplorer": false
 }

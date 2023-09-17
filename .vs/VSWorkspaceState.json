@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\algorithms"
+    "\\algorithms",
+    "\\dynamic_programming",
+    "\\dynamic_programming\\C++"
   ],
-  "SelectedNode": "\\datastructures",
+  "SelectedNode": "\\dynamic_programming\\C++\\UniquePathsII.h",
   "PreviewInSolutionExplorer": false
 }

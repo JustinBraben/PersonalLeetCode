@@ -1,11 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\algorithms",
-    "\\algorithms\\C++",
-    "\\datastructures\\C++",
-    "\\dynamic_programming\\C++"
+    ""
   ],
-  "SelectedNode": "\\algorithms\\C++\\TheKWeakestRowsInAMatrix.h",
+  "SelectedNode": "\\datastructures",
   "PreviewInSolutionExplorer": false
 }

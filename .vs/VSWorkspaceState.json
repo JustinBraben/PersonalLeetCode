@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\algorithms",
+    "\\algorithms\\C++"
   ],
-  "SelectedNode": "\\datastructures",
+  "SelectedNode": "\\algorithms\\C++\\MinimumOperationsToReduceXToZero.h",
   "PreviewInSolutionExplorer": false
 }

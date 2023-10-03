@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\algorithms",
-    "\\algorithms\\C++"
+    "\\datastructures",
+    "\\datastructures\\C++"
   ],
-  "SelectedNode": "\\algorithms\\C++\\IsSubsequence.h",
+  "SelectedNode": "\\datastructures\\C++\\RemoveDuplicateLetters.h",
   "PreviewInSolutionExplorer": false
 }

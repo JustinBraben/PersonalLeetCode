@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\algorithms",
-    "\\algorithms\\C++"
+    "\\datastructures",
+    "\\datastructures\\C++"
   ],
-  "SelectedNode": "\\algorithms\\C++\\NumberOfGoodPairs.h",
+  "SelectedNode": "\\datastructures\\C++\\DesignHashMap.h",
   "PreviewInSolutionExplorer": false
 }

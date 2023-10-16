@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\algorithms",
-    "\\datastructures",
-    "\\datastructures\\C++"
+    "\\algorithms\\C++"
   ],
-  "SelectedNode": "\\datastructures\\C++\\ValidSudoku.h",
+  "SelectedNode": "\\algorithms\\C++\\MinimumNumberOfOperationsToMakeArrayContinuous.h",
   "PreviewInSolutionExplorer": false
 }

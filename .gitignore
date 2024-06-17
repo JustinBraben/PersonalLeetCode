@@ -6,3 +6,6 @@
 /.vs/PersonalLeetCode/FileContentIndex
 /.vs/*
 .vs/
+.vscode/
+
+**/build/
